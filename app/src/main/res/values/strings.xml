@@ -7,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">设置</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">聊天</string>
+    <string name="menu_gallery">通讯录</string>
+    <string name="menu_slideshow">设置</string>
 </resources>
