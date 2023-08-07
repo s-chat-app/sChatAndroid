@@ -6,12 +6,12 @@
     <string name="nav_header_subtitle">不知道写什么.png</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">设置</string>
-
     <string name="menu_home">聊天</string>
     <string name="menu_gallery">通讯录</string>
     <string name="menu_slideshow">设置</string>
     <string name="title_activity_badge">Badge</string>
-    <string name="title_home">Home</string>
+    <string name="title_home">Chat</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="desc_search">搜索聊天内容或名称</string>
 </resources>
